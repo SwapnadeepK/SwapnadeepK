@@ -99,6 +99,7 @@ An accessibility-focused application designed to help visually impaired users in
 ## 🏆 My Badges
 
 [![Mentors Badge](https://devsprint-lime.vercel.app/api/badge/mentor-02.svg)](https://devsprint-lime.vercel.app/verify/mentor-02)
+My mentorship badge for Google Developer Group on Campus/GDGoC  **GDGSDS26 Summer Dev-Sprint** event held from 12th August till 14th August, 2026.
 
 ---
 
