@@ -69,7 +69,7 @@ An accessibility-focused application designed to help visually impaired users in
 `MongoDB` `MySQL`
 
 ### DevOps / Tools
-`Git` `GitHub` `Postman API`
+`Git` `GitHub` `Postman API` `DBeaver`
 
 ---
 
