@@ -27,9 +27,12 @@ A full-stack MERN application that generates and discovers recipes from natural-
 
 **Tech:** `React` `Node.js` `Express` `MongoDB` `Mongoose` `JWT` `Material UI` `REST APIs`
 
-**Links**
+**Links:**
 🔗 [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7373042221081747457/)  
+
+**Repository/Frontend:**
 💻 [Frontend](https://github.com/SwapnadeepK/Mini-Frontend)  
+**Repository/Backend:**
 ⚙️ [Backend](https://github.com/SwapnadeepK/Mini_Backend)
 
 **Status:** ✅ Published on GitHub
