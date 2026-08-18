@@ -54,10 +54,6 @@ An accessibility-focused application designed to help visually impaired users in
 
 ---
 
-
-
----
-
 ## 🛠️ Technologies & Tools
 
 ### Languages
